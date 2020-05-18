@@ -1,0 +1,11 @@
+------------------------------------
+Written in python 3.7.4 by Llione684
+Pyscripter IDE
+------------------------------------
+
+------------------------------------
+1) Setup python v3
+2) Install praw (pip install praw)
+3) Set up reddit bot - look up their website for help
+4) Set up praw.ini file with information from the bot and your reddit account
+------------------------------------
